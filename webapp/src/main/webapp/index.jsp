@@ -1,2 +1,2 @@
-<h1> Hello, WAGA SUCESS !!! </h1>
+<h1> Hello, JAGA SUCESS !!! </h1>
 
